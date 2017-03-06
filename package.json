@@ -1,0 +1,10 @@
+{
+  "name": "micro-composer",
+  "version": "0.0.1",
+  "description": "Composer utility for micro wrappers",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "saggiyogesh@gmail.com",
+  "license": "MIT"
+}
